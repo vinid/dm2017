@@ -1,0 +1,7 @@
+# dm2017
+
+consumer_key="2PexuEeruTahis27ZG3QxrEYh"
+consumer_secret="dfxizJjS5w9FqYDGQYgKI42DKXsw1wAcnIQTJU616pBIxrXKJh"
+
+access_token="2332157006-BXKX6flDvtsaGCD4NBj8IzL5xl8DUyaL952aow2"
+access_token_secret="6ErzotI2jxbVYeeIbstUuQBp3FRvXwy25yKwbZTM9XQhy"
